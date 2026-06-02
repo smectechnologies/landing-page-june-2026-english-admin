@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  base: '/maylandingpages',
+  base: '/en',
   output: 'static',
   outDir: './out',
 });
